@@ -1,0 +1,8 @@
+Package: rke2KubectlPackageAirGap
+Version: 1.0 
+Section: install
+Priority: optional 
+Architecture: all 
+Depends: apt 
+Maintainer: toto@gmail.fr 
+Description: run /etc/cboxTarball/installRke.sh
